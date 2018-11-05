@@ -1,0 +1,22 @@
+[
+  {
+    "ParameterKey": "Account",
+    "ParameterValue": "dev"
+  },
+  {
+    "ParameterKey": "VpcName",
+    "ParameterValue": "DevOpsDemo"
+  },
+  {
+    "ParameterKey": "KeyName",
+    "ParameterValue": "EC2-test"
+  },
+  {
+    "ParameterKey": "InstanceType",
+    "ParameterValue": "t2.micro"
+  },
+  {
+    "ParameterKey": "AmiId",
+    "ParameterValue": "ami-09bfeda7337019518"
+  }
+]
